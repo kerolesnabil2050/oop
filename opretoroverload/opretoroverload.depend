@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1670815144 source:h:\iti_9_month\data\github\oop\opretoroverload\main.cpp
+	<iostream>
+	<string.h>
+	"complex.h"
+
+1670815405 h:\iti_9_month\data\github\oop\opretoroverload\include\complex.h
+	<iostream>
+
